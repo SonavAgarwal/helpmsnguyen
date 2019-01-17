@@ -93,13 +93,28 @@ p {
 
 }
 li {
-    width: 90vw;
+    margin-left: 5vw;
+    margin-right: 5vw;
     height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
     font-size: 1.3vw;
     color: #42c2f4;
     font-family: 'Lucida Sans Unicode', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', Geneva, Verdana, sans-serif;
 
+}
+#simonThrowsImage {
+    width: 40vw;
+    height: auto;
+    margin-right: 5vw;
+    margin-left: 5vw;
+}
+
+#ideasDiv {
+    width: 50vw;
+    margin-left: 0px;
+    float: left;
+}
+
+#ideasImg {
+    width: 50vw;
+    float: left;
 }
