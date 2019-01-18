@@ -36,6 +36,7 @@
     background-color: #42f483;
     width: 100vw;
     height: 5vw;
+    border-bottom: 4px solid rgb(0, 81, 128);;
 }
 
 a{
@@ -94,7 +95,7 @@ p {
 }
 li {
     margin-left: 5vw;
-    margin-right: 5vw;
+    margin-right:auto;
     height: auto;
     font-size: 1.3vw;
     color: #42c2f4;
@@ -105,16 +106,19 @@ li {
     width: 40vw;
     height: auto;
     margin-right: 5vw;
-    margin-left: 5vw;
+    margin-left: 4.5vw;
 }
 
 #ideasDiv {
     width: 50vw;
-    margin-left: 0px;
     float: left;
 }
 
 #ideasImg {
-    width: 50vw;
+    width: 48vw;
     float: left;
+}
+
+.anchors {
+    transform: translate( 0vh, -50px);
 }
